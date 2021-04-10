@@ -8,6 +8,9 @@ Create a responsive password generator
 1. Create Repo and clone on machine
 2. Publish starter code to GitHub pages
 3. Write variables for characters
+4. Write prompts and character min/max
+5. Add the prompts to be run in generate password function
+6. 
 
 ## Live Project
 https://cmartin1336.github.io/homework03/

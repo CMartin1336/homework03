@@ -19,17 +19,17 @@ function passPrompt() {
         alert("The password must contain less than 128 characters!");
         return;
     }
-//variables for prompt options
+// Variables for prompt options
     var includeUpperCase = confirm("Password should include uppercase letters?");
     var includeLowerCase = confirm("Password should include lowercase letters?");
     var includeNumeric = confirm("Password should include numbers?");
     var includeSpecialChar = confirm("Password should include special characters?");
-// if confirm not selected on all options
+// If confirm not selected on all options
     if (!includeUpperCase && !includeLowerCase && !includeNumeric && !includeSpecialChar) {
         alert("Your password must contain at leat 1 uppercase, lowercase, number, and special character to satisfy security requirements");
         return;
     }
-//var object to use in writePassword function
+// Var object to use in writePassword function
     var promptOptions = {
         passLength: passLength,
         upperCase: includeUpperCase,
@@ -42,8 +42,10 @@ function passPrompt() {
 
 // Write password to the #password input
 function writePassword() {
+// Run prompt and log the answers
     var promptOptions = passPrompt();
     console.log(promptOptions)
+
     var password = generatePassword();
     var passwordText = document.querySelector("#password");
 
