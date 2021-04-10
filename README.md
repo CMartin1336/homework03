@@ -6,7 +6,8 @@ Create a responsive password generator
 
 ## Installation
 1. Create Repo and clone on machine
-2.
+2. Publish starter code to GitHub pages
+3. Write variables for characters
 
 ## Live Project
 https://cmartin1336.github.io/homework03/
