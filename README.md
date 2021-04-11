@@ -10,7 +10,11 @@ Create a responsive password generator
 3. Write variables for characters
 4. Write prompts and character min/max
 5. Add the prompts to be run in generate password function
-6. 
+6. Bang my head for hours trying to figure out why I can't print the damn thing
+7. Finally find some examples that help write it to the html when hitting button
+8. Clean up stuff not needed
+9. Add comments for future review to help me remember what/when/how
+10. Git PUSH!!
 
 ## Live Project
 https://cmartin1336.github.io/homework03/
