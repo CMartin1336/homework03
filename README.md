@@ -21,6 +21,9 @@ https://cmartin1336.github.io/homework03/
 
 ## Credit
 Christian Martin
+StackOverflow - https://stackoverflow.com/questions/15047140/javascript-prompt-number-and-continue-prompting-if-answer-is-wrong
+YouTube "Traversy Media"- https://www.youtube.com/watch?v=duNmhKgtcsI&ab_channel=TraversyMedia
+All people on the interwebs
 
 ## License
 GNU GENERAL PUBLIC LICENSE
